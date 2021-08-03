@@ -1,2 +1,2 @@
-# :Hi, i'm Nilton Firmino:
+# Hi, i'm Nilton Firmino
  
