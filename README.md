@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=NiltonFirmino&color=7B68EE )
 
 
-#### About Me 
+#### About Me: 
 
 - 🤔 &nbsp; Exploring new technologies and developing applications using flutter/DART.
 - 🌱 &nbsp; Learning more about Flutter, App Design and Dart.
