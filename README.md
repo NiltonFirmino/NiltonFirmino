@@ -20,6 +20,6 @@
 <br>
 <br>
 <a href="https://github.com/NiltonFirmino">
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=NiltonFirmino&theme=buefy&show_icons=true" />
-  <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonFirmino&theme=buefy&layout=compact" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=NiltonFirmino&theme=buefy&show_icons=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonFirmino&theme=buefy&layout=compact" />
 </a>
