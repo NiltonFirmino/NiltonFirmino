@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ## I'm Nilton Firmino
 
-![](https://komarev.com/ghpvc/?username=NiltonFirmino&color=blue)
+![](https://komarev.com/ghpvc/?username=NiltonFirmino&color=7B68EE )
 
 
 #### About Me 
