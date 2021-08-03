@@ -6,7 +6,7 @@
 
 #### About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing applications using flutter.
+- 🤔 &nbsp; Exploring new technologies and developing applications using flutter/DART.
 - 🌱 &nbsp; Learning more about Flutter, App Design and Dart.
 
 #### Programming languages and tools: 
