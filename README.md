@@ -1,8 +1,8 @@
 ### Hi there 👋 
 ### I'm Nilton Firmino
-<br>
+
 ![](https://komarev.com/ghpvc/?username=NiltonFirmino&color=blue)
-<br>
+
 
 
 #### :computer: Programming languages and tools: 
