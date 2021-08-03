@@ -4,8 +4,12 @@
 ![](https://komarev.com/ghpvc/?username=NiltonFirmino&color=blue)
 
 
+#### About Me 
 
-#### :computer: Programming languages and tools: 
+- 🤔 &nbsp; Exploring new technologies and developing applications using flutter.
+- 🌱 &nbsp; Learning more about Flutter, App Design and Dart.
+
+#### Programming languages and tools: 
 
 
 <p><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
