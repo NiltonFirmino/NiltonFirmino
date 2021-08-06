@@ -16,8 +16,10 @@
 <img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></p>
+<img height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"><br>
+<img height="40" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></p>
 <br>
 <br>
