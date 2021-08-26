@@ -6,7 +6,7 @@
 
 #### About Me: 
 
-- :orange_book: &nbsp; Lato Sensu Graduate Student in Mobile Development(CETEC).
+- :orange_book: &nbsp; Lato Sensu Graduate Student in Mobile Development (CETEC).
 - 🤔 &nbsp; Exploring new technologies and developing applications using flutter/DART.
 - 🌱 &nbsp; Learning more about Flutter, App Design and Dart.
 
