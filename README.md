@@ -25,7 +25,7 @@
 <br>
 <br>
 <a href="https://github.com/NiltonFirmino">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=NiltonFirmino&theme=buefy&show_icons=true" />
-  <br>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonFirmino&theme=buefy&layout=compact" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NiltonFirmino&theme=buefy&show_icons=true" />
+ 
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonFirmino&theme=buefy&layout=compact" />
 </a>
