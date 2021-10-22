@@ -20,6 +20,7 @@
 <img height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></p>
 <br>
 <br>
