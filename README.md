@@ -13,9 +13,11 @@
 #### Programming languages and tools: 
 
 
-<p><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<p>
 <img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
