@@ -16,8 +16,8 @@
 <p>
 <img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg">
+<img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
@@ -27,7 +27,5 @@
 <br>
 <br>
 <a href="https://github.com/NiltonFirmino">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NiltonFirmino&theme=buefy&show_icons=true" /></br>
- 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonFirmino&theme=buefy&layout=compact" />
 </a>
