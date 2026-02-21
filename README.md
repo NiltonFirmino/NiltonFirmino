@@ -26,6 +26,4 @@
 <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></p>
 <br>
 <br>
-<a href="https://github.com/NiltonFirmino">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonFirmino&theme=buefy&layout=compact" />
-</a>
+
