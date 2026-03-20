@@ -18,8 +18,6 @@
 <img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-<img height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 <img height="40" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg">
