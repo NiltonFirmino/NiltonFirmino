@@ -42,10 +42,4 @@ With a strong Full-Cycle background, I also architect and deliver production-rea
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiltonFirmino&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonFirmino&layout=compact&theme=darcula&hide=html,css" height="150" alt="Top Languages" />
-</p>
-
 📫 **How to reach me:** niltonfirminofs@gmail.com
